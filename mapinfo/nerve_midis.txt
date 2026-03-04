@@ -1,0 +1,127 @@
+// No Rest for the Living
+
+map NV_MAP01 lookup "NHUSTR_1"
+{
+	next = "NV_MAP02"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY1"
+	cluster = 11
+	titlepatch = "NWILV00"
+	par = 75
+	music = "music/NRFTL/N_MAP01.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_MEAKIM"
+}
+
+map NV_MAP02 lookup "NHUSTR_2"
+{
+	next = "NV_MAP03"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY1"
+	cluster = 11
+	titlepatch = "NWILV01"
+	par = 105
+	music = "music/NRFTL/N_MAP02.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_IWAKURA"
+}
+
+map NV_MAP03 lookup "NHUSTR_3"
+{
+	next = "NV_MAP04"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY1"
+	cluster = 11
+	titlepatch = "NWILV02"
+	par = 120
+	music = "music/NRFTL/N_MAP03.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_MEAKIM"
+}
+
+map NV_MAP04 lookup "NHUSTR_4"
+{
+	next = "NV_MAP05"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY3"
+	cluster = 11
+	titlepatch = "NWILV03"
+	par = 105
+	music = "music/NRFTL/N_MAP04.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_MEAKIM"
+}
+
+map NV_MAP05 lookup "NHUSTR_5"
+{
+	next = "NV_MAP06"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY3"
+	cluster = 11
+	titlepatch = "NWILV04"
+	par = 210
+	music = "music/NRFTL/N_MAP05.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_IWAKURA"
+}
+
+map NV_MAP06 lookup "NHUSTR_6"
+{
+	next = "NV_MAP07"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY3"
+	cluster = 11
+	titlepatch = "NWILV05"
+	par = 105
+	sucktime = 1
+	music = "music/NRFTL/N_MAP06.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_IWAKURA"
+}
+
+map NV_MAP07 lookup "NHUSTR_7"
+{
+	next = "NV_MAP08"
+	secretnext = "NV_MAP09"
+	sky1 = "RSKY3"
+	cluster = 11
+	titlepatch = "NWILV06"
+	par = 165
+	map07special
+	music = "music/NRFTL/N_MAP07.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_IWAKURA"
+}
+
+map NV_MAP08 lookup "NHUSTR_8"
+{
+	next = "EndGameC"
+	secretnext = "EndGameC"
+	sky1 = "RSKY3"
+	cluster = 11
+	titlepatch = "NWILV07"
+	par = 105
+	music = "music/NRFTL/N_MAP08.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_IWAKURA"
+}
+
+map NV_MAP09 lookup "NHUSTR_9"
+{
+	next = "NV_MAP05"
+	secretnext = "NV_MAP05"
+	sky1 = "RSKY1"
+	titlepatch = "NWILV08"
+	cluster = 11
+	par = 135
+	music = "music/NRFTL/N_MAP09.mid"
+	ExitPic = "NVINTER"
+	Author = "$WS_AU_MEAKIM"
+}
+
+cluster 11
+{
+	flat = "SLIME16"
+	music = "music/NRFTL/N_TEXT.mid"
+	exittext = lookup, "NERVETEXT"
+}
