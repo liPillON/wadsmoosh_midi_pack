@@ -1,0 +1,136 @@
+===========================================================================
+Title                   : TNT MIDI Pack
+Filename                : TNTmidi.wad
+Release date            : July 28th, 2021
+Author                  : Cammy et al.
+Email Address           : [redacted]
+Other Files By Author   : MIDIs for .MID the Way id Did, No Rest for the
+			  Living MIDI Pack, the Ultimate MIDI Pack, and
+			  Disjointed Domains. Counting my brilliant
+			  co-contributors, an incalculable amount of work!
+Misc. Author Info       : Just like everyone else, I was born different.
+
+Description             : Eight years since the Plutonia MIDI pack and
+			  twenty-five years since the release of Final
+			  Doom... I always wondered where the love for the
+			  elder sister in the Final Doom family was hiding.
+			  Following in the footsteps of the MIDI Pack boom
+			  we've been enjoying this year, I recruited a
+			  roster of MIDI composers old and new and got the
+			  ball rolling. Never guessed it would have rolled
+			  this far.
+
+			  After over two decades spent coasting on Doom II
+			  reprises and antiquated home-brews, it's finally
+			  happened. TNT: Evilution has a high-quality,
+			  custom-made, full MIDI soundtrack that blends
+			  classic tunes with modern sensibilities for a
+			  one-of-a-kind synergy. You're in for a treat.
+						  
+Additional Credits to   : Jimmy for the inspiration, Peter for help with
+			  the DW thread's graphics, Lippeth and DCG
+			  Retrowave for testing with vanilla software,
+			  Cecy, Jackson, and Andie for their moral support,
+			  and every one of the composers who helped make
+			  this phenomenal final product come to life!
+
+===========================================================================
+* What is included *
+
+New levels              : No
+Sounds                  : No
+Music                   : Yes
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : TNTmidi-np.wad, which can be run with ZDoom to
+			  display the names of the tracks and their
+			  authors on map start.
+			  A file folder which contains every raw MIDI.
+Other files required    : No
+
+
+* Play Information *
+
+Game                    : Final Doom - TNT: Evilution
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Other game styles       : N/A
+Difficulty Settings     : N/A
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : ~4 months to first release, 5 to final release
+Editor(s) used          : Sekaiju, GuitarTux, FL Studio, GarageBand, etc.
+May Not Run With...     : DOS machines, on which certain MIDIs do not
+			  play. Still compatible with all major source
+			  ports though, including vanilla ones.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites: http://www.doomworld.com/idgames
+
+===========================================================================
+
+* Track list *
+
+  TITLE: "The Mothership's Wake" by Ivan Stanton (northivanastan) & Cammy
+  INTER: "TeNeT" by Cammy
+  STORY: "Technoparchment" by Viscra Maelstrom
+
+  MAP01: "Detonation" by Joshua "Dragonfly" O'Sullivan
+  MAP02: "Don't Stop Bleedin'" by Nathan "Lippeth" Maxx
+  MAP03: "Triangular Currents" by pcorf
+  MAP04: "Broken Mirror" by Tristan Clark
+  MAP05: "The St. Louis Slammer" by Cammy
+  MAP06: "Wretched Harangue" by Joshua "Dragonfly" O'Sullivan & Nathan "Lippeth" Maxx
+  MAP07: "Escaping the Doomed Fortress" by Myrgharok (TheUltimateDoomer666)
+  MAP08: "Growling Belly" by JD Herrera
+  MAP09: "Revenant Capoeira" by Gustavo6046 & Ivan Stanton (northivanastan)
+  MAP10: "Oakset" by Cammy
+  MAP11: "Source of Stress" by Doomkid & Jimmy
+  MAP12: "Inside the Devil's Lungs" by JD Herrera
+  MAP13: "Hey There, Moonbeam" by Cammy & Nathan "Lippeth" Maxx
+  MAP14: "Introducing Mrs. Tier F" by Peter Lawrence (MegaSphere)
+  MAP15: "A Foggy Night" by stewboy
+  MAP16: "Wrought in Blood" by Viscra Maelstrom
+  MAP17: "Not Wearing Plaid" by Lee Jackson
+  MAP18: "Milling Around" by Lee Jackson
+  MAP19: "Minds Like Magnets" by Deadwing
+  MAP20: "The Doom World is Flat" by decino
+  MAP21: "Drywall" by Gustavo6046 & decino
+  MAP22: "Sewer of Confusion (No More Plats Mix)" by Dallas Cox (DCG Retrowave) & Cammy
+  MAP23: "Return of the Troubles" by Jeremy Doyle
+  MAP24: "Terror Firma" by Nathan "Lippeth" Maxx
+  MAP25: "Stomping Grounds" by Lee Jackson
+  MAP26: "Impending End" by The Green Herring
+  MAP27: "Knights of Zettazepto" by Cammy
+  MAP28: "Abyssal Mystery" by pcorf
+  MAP29: "The Knives That Carved the Megalith" by Cammy
+  MAP30: "Savior of Humanity" by Ivan Stanton (northivanastan) & Cammy
+  MAP31: "Soulsweeper" by TrialD & Cammy
+  MAP32: "Into a Sandy City" by Peter Lawrence (MegaSphere)
+
+===========================================================================
+
+A very special thank you to the Doom community, whose singular kindness
+and welcoming spirit gave me the confidence to direct this project, and
+whose breathtaking talent made it such a show-stopping home run.
+
+This is for all of you.
