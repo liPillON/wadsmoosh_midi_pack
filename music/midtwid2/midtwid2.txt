@@ -1,0 +1,121 @@
+https://www.doomworld.com/forum/post/2340532
+
+Don't know if someone already did this before,
+but here's a version of ".MID the way id did"
+that replaces the duplicate tracks only.
+
+
+
+
+
+ORIGINAL IDGAMES README:
+
+===========================================================================
+Primary purpose         : No levels included
+===========================================================================
+Title                   : .MID the way id did  -  32 MIDIs for Doom 2!
+Filename                : midtwid2.wad
+Release date            : 09-04-2021
+Author                  : The midtwid team
+Email Address           : [redacted]
+
+Description             : This is a pack of 32 new MIDI files to replace the
+                          entire Doom 2 soundtrack! Initially the goal was to
+                          imitate Bobby's style, but ultimately we ended up
+                          with a wide variety of good music. Tracks & authors
+                          listed below:
+
+                          01 - Lippeth - Dear Onion
+                          02 - Alfonzo - En el Sal?n
+                          03 - Plums - Shot Down
+                          04 - Mr. Freeze - Julian's Fragging Again
+                          05 - Lippeth - Coliformication
+                          06 - Peccatum Mihzamiz - Aranea Imperatrix (with CammyBanana's help)
+                          07 - Viscra Maelstrom - This Is My Boomstick
+                          08 - Doomkid - Nuisances Unknown
+                          09 - DCG Retrowave - Into Retrowave's City
+                          10 - Doomkid - Whipped & Chained
+                          11 - CammyBanana - Concocting Erinon's Milkshake
+                          12 - Alfonzo - Evil on Parade
+                          13 - Bucket - SOON
+                          14 - CammyBanana - Five Iron
+                          15 - LazyGecko & CammyBanana - Score One for the Bolthouse
+                          16 - TrialD - Data Track
+                          17 - STILES - This One's for Daisy
+                          18 - Bucket - Lair of The Bitchmaker
+                          19 - Lippeth - Behold! A God Who Bleeds
+                          20 - CammyBanana - Boston Cream Pie
+                          21 - decino - Braachsel
+                          22 - MegaSphere - NM100S Pistol Start or Else
+                          23 - Viscra Maelstrom - Nukaland
+                          24 - Bucket - In The Red
+                          25 - Mr. Freeze - They're Here
+                          26 - Bucket - Arch-Vile on Line 2
+                          27 - Xulgonoth - Where Weeping Willows Grow Wild
+                          28 - STILES - M.I.A. (with Lippeth's help)
+                          29 - Doomkid & Lippeth - Wondering...
+                          30 - ZeMystic - Echoes
+                          31 - Peccatum Mihzamiz - Garazin
+                          32 - CammyBanana - Suplex the Stars
+                          TTL - Doomkid - Faux Intro
+                          INT - Bucket - Untitled is Still Technically a Title
+                          STR - Gustavo6046 - Just Another Day
+                          UN1 - Bucket - Unstop
+                          UN2 - Gustavo6046 - Ring of Gravity
+                          UN3 - ZeMystic - The Medicine Man Creeps
+
+===========================================================================
+* What is included *
+
+New levels              : 0
+Sounds                  : No
+Music                   : Yes
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : Map01 - Map32 (music only, duh)
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : All
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : The songs came from our brains!
+Build Time              : ~6 months, on and off
+Editor(s) used          : Sekaiju, Cakewalk, Guitar Pro, TuxGuitar, etc
+Known Bugs              : Please report all bugs to Doomkid!
+May Not Run With        : n/a
+Tested With             : all
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+(or, to put it the old way, authors MAY re-use these MIDIs, just give credit where due!)
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: doomworld.com
+           doomshack.org
+           etc...
