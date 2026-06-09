@@ -1,5 +1,6 @@
 // master levels for doom 2
 // generated from file 'masterlevels_order_xaser.txt' by WadSmoosh
+// which is the same as the KEX order detailed here https://doomwiki.org/wiki/Master_Levels_for_Doom_II#Level_progression
 
 defaultmap
 {
