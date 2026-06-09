@@ -6,7 +6,9 @@ Load it after the "doom_complete.pk3" iwad.
 The addon assumes that your "doom_complete.pk3" has been generated:
 - using all official 4 iwads
 - adding NERVE.WAD and SIGIL.WAD
-- compiling the master levels using the PSN order
+- compiling the master levels using the XASER/KEX order
+
+Users who prefers the "PSN Level Progression" should edit the main MAPINFO lump to switch between available MasterLevels mapinfo. 
 
 The tracks have been selected using the following criteria:
 - DOOM and DOOM2: only the duplicated tracks have been replaced with community midis
