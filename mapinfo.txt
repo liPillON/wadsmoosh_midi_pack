@@ -1,6 +1,7 @@
 include mapinfo/doom1_midis.txt
 include mapinfo/doom2_midis.txt
-include mapinfo/masterlevels_midis.txt
+include mapinfo/masterlevels_midis_kex.txt
+//include mapinfo/masterlevels_midis_psn.txt
 include mapinfo/nerve_midis.txt
 include mapinfo/plutonia_midis.txt
 include mapinfo/tnt_midis.txt
