@@ -3,7 +3,7 @@
 defaultmap
 {
 	ExitPic = "TNTINTER"
-	music = "music/plutmidi/T_INTER.mid"
+	music = "music/tntmidi/T_INTER.mid"
 }
 
 map TN_MAP01 lookup "THUSTR_1"
@@ -14,7 +14,7 @@ map TN_MAP01 lookup "THUSTR_1"
 	cluster = 12
 	titlepatch = "TWILV00"
 	par = 30
-	music = "music/plutmidi/T_MAP01.mid"
+	music = "music/tntmidi/T_MAP01.mid"
 	Author = "$WS_AU_MUSTAINE"
 }
 
@@ -26,7 +26,7 @@ map TN_MAP02 lookup "THUSTR_2"
 	cluster = 12
 	titlepatch = "TWILV01"
 	par = 90
-	music = "music/plutmidi/T_MAP02.mid"
+	music = "music/tntmidi/T_MAP02.mid"
 	Author = "$WS_AU_WAKELIN"
 }
 
@@ -38,7 +38,7 @@ map TN_MAP03 lookup "THUSTR_3"
 	cluster = 12
 	titlepatch = "TWILV02"
 	par = 120
-	music = "music/plutmidi/T_MAP03.mid"
+	music = "music/tntmidi/T_MAP03.mid"
 	Author = "$WS_AU_PATENALL_MINADEO"
 }
 
@@ -50,7 +50,7 @@ map TN_MAP04 lookup "THUSTR_4"
 	cluster = 12
 	titlepatch = "TWILV03"
 	par = 120
-	music = "music/plutmidi/T_MAP04.mid"
+	music = "music/tntmidi/T_MAP04.mid"
 	Author = "$WS_AU_HALDERMAN"
 }
 
@@ -62,7 +62,7 @@ map TN_MAP05 lookup "THUSTR_5"
 	cluster = 12
 	titlepatch = "TWILV04"
 	par = 90
-	music = "music/plutmidi/T_MAP05.mid"
+	music = "music/tntmidi/T_MAP05.mid"
 	Author = "$WS_AU_DETHLEFSEN"
 }
 
@@ -74,7 +74,7 @@ map TN_MAP06 lookup "THUSTR_6"
 	cluster = 12
 	titlepatch = "TWILV05"
 	par = 150
-	music = "music/plutmidi/T_MAP06.mid"
+	music = "music/tntmidi/T_MAP06.mid"
 	Author = "$WS_AU_SIEBEN_HALDERMAN"
 }
 
@@ -87,7 +87,7 @@ map TN_MAP07 lookup "THUSTR_7"
 	titlepatch = "TWILV06"
 	par = 120
 	map07special
-	music = "music/plutmidi/T_MAP07.mid"
+	music = "music/tntmidi/T_MAP07.mid"
 	Author = "$WS_AU_DOWSWELL"
 }
 
@@ -99,7 +99,7 @@ map TN_MAP08 lookup "THUSTR_8"
 	cluster = 13
 	titlepatch = "TWILV07"
 	par = 120
-	music = "music/plutmidi/T_MAP08.mid"
+	music = "music/tntmidi/T_MAP08.mid"
 	Author = "$WS_AU_MINADEO"
 }
 
@@ -111,7 +111,7 @@ map TN_MAP09 lookup "THUSTR_9"
 	cluster = 13
 	titlepatch = "TWILV08"
 	par = 270
-	music = "music/plutmidi/T_MAP09.mid"
+	music = "music/tntmidi/T_MAP09.mid"
 	Author = "$WS_AU_SIEBEN_HALDERMAN"
 }
 
@@ -123,7 +123,7 @@ map TN_MAP10 lookup "THUSTR_10"
 	cluster = 13
 	titlepatch = "TWILV09"
 	par = 90
-	music = "music/plutmidi/T_MAP10.mid"
+	music = "music/tntmidi/T_MAP10.mid"
 	Author = "$WS_AU_MUSTAINE"
 }
 
@@ -135,7 +135,7 @@ map TN_MAP11 lookup "THUSTR_11"
 	cluster = 13
 	titlepatch = "TWILV10"
 	par = 210
-	music = "music/plutmidi/T_MAP11.mid"
+	music = "music/tntmidi/T_MAP11.mid"
 	Author = "$WS_AU_JOHNSON"
 }
 
@@ -147,7 +147,7 @@ map TN_MAP12 lookup "THUSTR_12"
 	cluster = 14
 	titlepatch = "TWILV11"
 	par = 150
-	music = "music/plutmidi/T_MAP12.mid"
+	music = "music/tntmidi/T_MAP12.mid"
 	Author = "$WS_AU_LOWELL"
 }
 
@@ -159,7 +159,7 @@ map TN_MAP13 lookup "THUSTR_13"
 	cluster = 14
 	titlepatch = "TWILV12"
 	par = 150
-	music = "music/plutmidi/T_MAP13.mid"
+	music = "music/tntmidi/T_MAP13.mid"
 	Author = "$WS_AU_KIDBY_HALDERMAN"
 }
 
@@ -171,7 +171,7 @@ map TN_MAP14 lookup "THUSTR_14"
 	cluster = 14
 	titlepatch = "TWILV13"
 	par = 150
-	music = "music/plutmidi/T_MAP14.mid"
+	music = "music/tntmidi/T_MAP14.mid"
 	Author = "$WS_AU_PATENALL"
 }
 
@@ -183,7 +183,7 @@ map TN_MAP15 lookup "THUSTR_15"
 	cluster = 14
 	titlepatch = "TWILV14"
 	par = 210
-	music = "music/plutmidi/T_MAP15.mid"
+	music = "music/tntmidi/T_MAP15.mid"
 	Author = "$WS_AU_WHITAKER"
 }
 
@@ -195,7 +195,7 @@ map TN_MAP16 lookup "THUSTR_16"
 	cluster = 14
 	titlepatch = "TWILV15"
 	par = 150
-	music = "music/plutmidi/T_MAP16.mid"
+	music = "music/tntmidi/T_MAP16.mid"
 	Author = "$WS_AU_ARSENAULT"
 }
 
@@ -207,7 +207,7 @@ map TN_MAP17 lookup "THUSTR_17"
 	cluster = 14
 	titlepatch = "TWILV16"
 	par = 420
-	music = "music/plutmidi/T_MAP17.mid"
+	music = "music/tntmidi/T_MAP17.mid"
 	Author = "$WS_AU_MUSTAINE"
 }
 
@@ -219,7 +219,7 @@ map TN_MAP18 lookup "THUSTR_18"
 	cluster = 14
 	titlepatch = "TWILV17"
 	par = 150
-	music = "music/plutmidi/T_MAP18.mid"
+	music = "music/tntmidi/T_MAP18.mid"
 	Author = "$WS_AU_CASALI_HALDERMAN"
 }
 
@@ -231,7 +231,7 @@ map TN_MAP19 lookup "THUSTR_19"
 	cluster = 14
 	titlepatch = "TWILV18"
 	par = 210
-	music = "music/plutmidi/T_MAP19.mid"
+	music = "music/tntmidi/T_MAP19.mid"
 	Author = "$WS_AU_HALDERMAN"
 }
 
@@ -243,7 +243,7 @@ map TN_MAP20 lookup "THUSTR_20"
 	cluster = 14
 	titlepatch = "TWILV19"
 	par = 150
-	music = "music/plutmidi/T_MAP20.mid"
+	music = "music/tntmidi/T_MAP20.mid"
 	Author = "$WS_AU_OBRIEN"
 }
 
@@ -255,7 +255,7 @@ map TN_MAP21 lookup "THUSTR_21"
 	cluster = 15
 	titlepatch = "TWILV20"
 	par = 240
-	music = "music/plutmidi/T_MAP21.mid"
+	music = "music/tntmidi/T_MAP21.mid"
 	Author = "$WS_AU_OBRIEN"
 }
 
@@ -267,7 +267,7 @@ map TN_MAP22 lookup "THUSTR_22"
 	cluster = 15
 	titlepatch = "TWILV21"
 	par = 150
-	music = "music/plutmidi/T_MAP22.mid"
+	music = "music/tntmidi/T_MAP22.mid"
 	Author = "$WS_AU_BUTEAU"
 }
 
@@ -279,7 +279,7 @@ map TN_MAP23 lookup "THUSTR_23"
 	cluster = 15
 	titlepatch = "TWILV22"
 	par = 180
-	music = "music/plutmidi/T_MAP23.mid"
+	music = "music/tntmidi/T_MAP23.mid"
 	Author = "$WS_AU_TURNBULL"
 }
 
@@ -291,7 +291,7 @@ map TN_MAP24 lookup "THUSTR_24"
 	cluster = 15
 	titlepatch = "TWILV23"
 	par = 150
-	music = "music/plutmidi/T_MAP24.mid"
+	music = "music/tntmidi/T_MAP24.mid"
 	Author = "$WS_AU_JOHNSON"
 }
 
@@ -303,7 +303,7 @@ map TN_MAP25 lookup "THUSTR_25"
 	cluster = 15
 	titlepatch = "TWILV24"
 	par = 150
-	music = "music/plutmidi/T_MAP25.mid"
+	music = "music/tntmidi/T_MAP25.mid"
 	Author = "$WS_AU_MENTZER"
 }
 
@@ -315,7 +315,7 @@ map TN_MAP26 lookup "THUSTR_26"
 	cluster = 15
 	titlepatch = "TWILV25"
 	par = 300
-	music = "music/plutmidi/T_MAP26.mid"
+	music = "music/tntmidi/T_MAP26.mid"
 	Author = "$WS_AU_SNELL_LOWELL"
 }
 
@@ -327,7 +327,7 @@ map TN_MAP27 lookup "THUSTR_27"
 	cluster = 15
 	titlepatch = "TWILV26"
 	par = 330
-	music = "music/plutmidi/T_MAP27.mid"
+	music = "music/tntmidi/T_MAP27.mid"
 	Author = "$WS_AU_OBRIEN"
 }
 
@@ -339,7 +339,7 @@ map TN_MAP28 lookup "THUSTR_28"
 	cluster = 15
 	titlepatch = "TWILV27"
 	par = 420
-	music = "music/plutmidi/T_MAP28.mid"
+	music = "music/tntmidi/T_MAP28.mid"
 	Author = "$WS_AU_MILO_CASALI"
 }
 
@@ -351,7 +351,7 @@ map TN_MAP29 lookup "THUSTR_29"
 	titlepatch = "TWILV28"
 	cluster = 15
 	par = 300
-	music = "music/plutmidi/T_MAP29.mid"
+	music = "music/tntmidi/T_MAP29.mid"
 	Author = "$WS_AU_SIEBEN"
 }
 
@@ -365,10 +365,10 @@ map TN_MAP30 lookup "THUSTR_30"
 	// depends on broken vanilla stair builder behavior, which ZDoom
 	// hardcodes for TNT.wad but must be manually specified here
 	compat_stairs
-	music = "music/plutmidi/T_MAP30.mid"
+	music = "music/tntmidi/T_MAP30.mid"
 	next = endgame {
 		pic = "TNTBOSS"
-		music = "T_DM2INT"
+		music = "music/tntmidi/T_CAST.mid"
 		cast
 	}
 	Author = "$WS_AU_SIEBEN"
@@ -382,7 +382,7 @@ map TN_MAP31 lookup "THUSTR_31"
 	cluster = 16
 	titlepatch = "TWILV30"
 	par = 120
-	music = "music/plutmidi/T_MAP31.mid"
+	music = "music/tntmidi/T_MAP31.mid"
 	Author = "$WS_AU_DARIO_CASALI"
 }
 
@@ -394,7 +394,7 @@ map TN_MAP32 lookup "THUSTR_32"
 	cluster = 17
 	titlepatch = "TWILV31"
 	par = 30
-	music = "music/plutmidi/T_MAP32.mid"
+	music = "music/tntmidi/T_MAP32.mid"
 	Author = "$WS_AU_DARIO_CASALI"
 }
 
@@ -403,7 +403,7 @@ map TN_MAP32 lookup "THUSTR_32"
 cluster 12
 {
 	flat = "$BGFLAT06"
-	music = "music/plutmidi/T_TEXT.mid"
+	music = "music/tntmidi/T_TEXT.mid"
 	exittext = lookup, "T1TEXT"
 }
 
@@ -412,7 +412,7 @@ cluster 12
 cluster 13
 {
 	flat = "$BGFLAT11"
-	music = "music/plutmidi/T_TEXT.mid"
+	music = "music/tntmidi/T_TEXT.mid"
 	exittext = lookup, "T2TEXT"
 }
 
@@ -421,7 +421,7 @@ cluster 13
 cluster 14
 {
 	flat = "$BGFLAT20"
-	music = "music/plutmidi/T_TEXT.mid"
+	music = "music/tntmidi/T_TEXT.mid"
 	exittext = lookup, "T3TEXT"
 }
 
@@ -430,7 +430,7 @@ cluster 14
 cluster 15
 {
 	flat = "$BGFLAT30"
-	music = "music/plutmidi/T_TEXT.mid"
+	music = "music/tntmidi/T_TEXT.mid"
 	exittext = lookup, "T4TEXT"
 }
 
@@ -439,7 +439,7 @@ cluster 15
 cluster 16
 {
 	flat = "$BGFLAT15"
-	music = "music/plutmidi/T_TEXT.mid"
+	music = "music/tntmidi/T_TEXT.mid"
 	entertext = lookup, "T5TEXT"
 }
 
@@ -448,6 +448,6 @@ cluster 16
 cluster 17
 {
 	flat = "$BGFLAT31"
-	music = "music/plutmidi/T_TEXT.mid"
+	music = "music/tntmidi/T_TEXT.mid"
 	entertext = lookup, "T6TEXT"
 }
