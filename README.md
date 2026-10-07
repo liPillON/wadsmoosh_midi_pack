@@ -12,15 +12,29 @@ Load it after the `doom_complete.pk3` iwad, wich is assumed to have been generat
 
 
 ## Level Progression
-The XASER level progression is the default, since it has been adopted by the latest official, kex-based source port released by ID/NightDive in 2024.
-Users who have a WadSmoosh IWAD generated using the PSN level progression and still want to use this midi pack, should edit the main MAPINFO lump in the `wadsmoosh_midi_pack.pk3` file (using software such as SLADE).
+The XASER level progression has been adopted by the latest official, kex-based source port released by ID/NightDive in 2024.
+
+WadSmoosh IWADs generated using the PSN level progression are NOT supported.
 
 For more information about the different level progressions, see [here](https://doomwiki.org/wiki/Master_Levels_for_Doom_II#Level_progression)
 
 
 
-## Credits
+## Implementation Details
+With the exception of SIGIL (wich already comes with its own midis) all other mapsets have had their soundtracks tweaked by using the following criteria:
 
+* DOOM, DOOM2, TNT: music has been replaced only for maps that reused tracks from earlier maps/episodes/games
+* NERVE, PLUTONIA, MasterLevels: the whole soundtrack has been replaced using the full release of each midi pack
+
+
+The following enhancement have been made to the mapinfo definitions, where needed:
+
+* game/episode-specific intermission screen music (D_INTER/D_DM2INT) using the `defaultmap` command 
+* cluster-specific text screen music (D_VICTOR/D_READ_M) setting the `defaultmap` property 
+
+
+
+## Credits
 All contributors are credited in the pk3 by embedding the same .txt files found on each /idgames download.
 
 More information about each MIDI Pack:
@@ -31,13 +45,6 @@ More information about each MIDI Pack:
 * [https://doomwiki.org/wiki/Master_Levels_for_Doom_II_25th_Anniversary_MIDI_Pack](https://doomwiki.org/wiki/Master_Levels_for_Doom_II_25th_Anniversary_MIDI_Pack)
 * [https://doomwiki.org/wiki/Plutonia\_MIDI\_Pack](https://doomwiki.org/wiki/Plutonia_MIDI_Pack)
 * [https://doomwiki.org/wiki/TNT:\_Evilution\_MIDI\_Pack](https://doomwiki.org/wiki/TNT:_Evilution_MIDI_Pack)
-
-
-
-With the exception of SIGIL (wich already comes with its own midis) all other mapsets have had their soundtracks tweaked by using the following criteria:
-
-* DOOM, DOOM2: only the duplicated tracks have been replaced with midis specific to the map slots which required replacements
-* NERVE, PLUTONIA, TNT, MasterLevels: full soundtrack replacement using their respective full midi packs
 
 
 
