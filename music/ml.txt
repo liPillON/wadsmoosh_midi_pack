@@ -1,0 +1,75 @@
+Master Levels for Doom II - 25th Anniversary MIDI Pack
+By MegaSphere
+18 - January - 2021
+
+01_Are We Really Doing This
+D_RUNNIN ATTACK.WAD	Attack
+
+02_Guess We Are Then
+D_STALKS CANYON.WAD	Canyon
+
+03_Don't Fall Lmao
+D_COUNTD CATWALK.WAD	The Catwalk
+
+04_Treasure Hunting
+D_BETWEE COMBINE.WAD	The Combine
+
+05_Fist Urethra
+D_DOOM	FISTULA.WAD	The Fistula
+
+06_Shepards Tone
+D_THE_DA GARRISON.WAD	The Garrison
+
+07_Death by Enriched Bagel (by Willy W)
+D_SHAWN	MANOR.WAD	Titan Manor
+
+08_Waltz into Mancubus Fireballs
+D_DDTBLU PARADOX.WAD	Paradox
+
+09_Ejipt
+D_IN_CIT SUBSPACE.WAD	Subspace
+
+10_Inescapable Pit Time
+D_DEAD	SUBTERRA.WAD	Subterra
+
+11_Wank City
+D_STLKS2 TTRAP.WAD	Trapped On Titan
+
+12_Locrian Trap MIDI
+ D_THEDA2 VIRGIL.WAD	Virgil's Lead
+
+13_Not Club Doom
+D_DOOM2	MINOS.WAD	Minos' Judgement
+
+14_Archvile King
+D_DDTBL2 BLOODSEA.WAD	Bloodsea Keep
+
+15_Icon Of put this map in the Bin
+D_RUNNI2 MEPHISTO.WAD	Mephisto's Maosoleum
+
+16_Slaying at Night
+D_DEAD2	NESSUS.WAD	Nessus
+
+17_Catnip Forest (by Bloo)
+D_STLKS3 GERYON.WAD	Geryon
+
+18_Invisible Ledge is DUMB
+D_ROMERO VESPERAS.WAD	Vesperas
+
+19_Erecting The Black Tower
+D_SHAWN2 BLACKTWR.WAD	Black Tower
+
+20_Grinding Teeth
+D_MESSAG TEETH.WAD  The Express Elevator To Hell
+
+21_The Tit
+D_COUNT2 TEETH.WAD	Bad Dream
+
+22_Arse
+D_READ_M Message Text
+
+23_DOODOODOODOO
+D_EVIL Ending Screen
+
+00_Palate Cleanser
+D_DM2INT Intermission
