@@ -1,0 +1,11 @@
+//ZMAPINFO definitions are not additive, so we need
+//to fully replicate here each mapinfo-related WadSmoosh lump
+//the only changes made are to the values of every map's music/intermusic property
+include mapinfo/doom1_levels.midipack
+include mapinfo/doom2_levels.midipack
+include mapinfo/doom2_secret_levels.midipack
+include mapinfo/masterlevels.midipack
+include mapinfo/tnt_levels.midipack
+include mapinfo/plutonia_levels.midipack
+include mapinfo/sigil_levels.midipack
+include mapinfo/sigil2_levels.midipack
